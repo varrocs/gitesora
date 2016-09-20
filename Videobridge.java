@@ -97,7 +97,7 @@ public class Videobridge
      */
     static final String MEDIA_RECORDING_TOKEN_PNAME
         = "org.jitsi.videobridge.MEDIA_RECORDING_TOKEN";
-
+// A git egy szar, az előadó amúgy is unalmas
     /**
      * The optional flag which specifies to
      * {@link #handleColibriConferenceIQ(ColibriConferenceIQ, int)} that
@@ -901,7 +901,7 @@ public class Videobridge
 
                 if (initiator != null)
                 {
-                    channel.setInitiator(initiator); 
+                    channel.setInitiator(initiator);
                 }
                 else
                 {
@@ -932,8 +932,8 @@ public class Videobridge
                 {
                     TransportManager transportManager
                         = conference.getTransportManager(
-                            channelBundleId, 
-                            true, 
+                            channelBundleId,
+                            true,
                             initiator);
 
                     transportManager.addChannel(channel);
@@ -1693,5 +1693,10 @@ public class Videobridge
          * successfully connected over TCP.
          */
         public AtomicInteger totalTcpTransportManagers = new AtomicInteger();
+
+	/**
+	 * Ez csak azért került ide, hogy legyen valami értelmes dolog a file végén
+	 */
+        public AtomicInteger thisIsAnAtomicInteger = new AtomicInteger();
     }
 }
