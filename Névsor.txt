@@ -1,10 +1,11 @@
-Ebbe a fájlba kell majd beleírni mindenkinek a nevét és a github userét
+﻿Ebbe a fájlba kell majd beleírni mindenkinek a nevét és a github userét
 utána commmitolni és pull requestet küldeni róla.
 Névsorrendben!
 pl.
 Varró Csaba	varrocs
 
 Névsor:
+Burik Aurél	aurell1
 Déri Levente	derilevi
 Orbán Levente polaroi8d
 Szpisják Viktor vektor112
