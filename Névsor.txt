@@ -10,4 +10,4 @@ Déri Levente	derilevi
 Orbán Levente polaroi8d
 Szpisják Viktor vektor112
 Szűts Roland	knif3
-Gölöncsér József gojuaat-sze
+Gölöncsér József gojuaat-sze https://piank.herokuapp.com/
