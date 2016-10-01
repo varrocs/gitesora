@@ -1,12 +1,16 @@
-﻿Ebbe a fájlba kell majd beleírni mindenkinek a nevét és a github userét
+Ebbe a fájlba kell majd beleírni mindenkinek a nevét és a github userét
 utána commmitolni és pull requestet küldeni róla.
 Névsorrendben!
 pl.
 Varró Csaba	varrocs
 
 Névsor:
-Burik Aurél	aurell1
+Burik Aurél	aurell1  https://piank1.herokuapp.com/
 Déri Levente	derilevi
+Hegedűs Adrián HegedusAdrian
+Márkus András 	andrasmarkus
 Orbán Levente polaroi8d
+Papp Máté  matepp
 Szpisják Viktor vektor112
 Szűts Roland	knif3
+Gölöncsér József gojuaat-sze
