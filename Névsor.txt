@@ -6,6 +6,7 @@ Varró Csaba	varrocs
 
 Névsor:
 Burik Aurél	aurell1  https://piank1.herokuapp.com/
+Csongor Donát	Numichi	
 Déri Levente	derilevi
 Hegedűs Adrián HegedusAdrian
 Márkus András 	andrasmarkus
