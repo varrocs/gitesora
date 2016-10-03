@@ -10,7 +10,7 @@ Csongor Donát	Numichi
 Déri Levente	derilevi
 Hegedűs Adrián HegedusAdrian
 Márkus András 	andrasmarkus
-Orbán Levente polaroi8d
+Orbán Levente polaroi8d https://nagyvallalati-prog-app.herokuapp.com/
 Papp Máté  matepp
 Szpisják Viktor vektor112
 Szűts Roland	knif3
