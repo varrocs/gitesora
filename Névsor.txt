@@ -7,7 +7,7 @@ Varró Csaba	varrocs
 Névsor:
 Burik Aurél	aurell1  https://piank1.herokuapp.com/
 Csongor Donát	Numichi	
-Déri Levente	derilevi
+Déri Levente	derilevi	https://derilevi-nagyvallalatiprog.herokuapp.com/
 Hegedűs Adrián HegedusAdrian
 Márkus András 	andrasmarkus
 Orbán Levente polaroi8d https://nagyvallalati-prog-app.herokuapp.com/
