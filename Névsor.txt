@@ -7,11 +7,18 @@ Varró Csaba	varrocs
 Névsor:
 Burik Aurél	aurell1
 Déri Levente	derilevi
+<<<<<<< HEAD
 Gölöncsér József gojuaat-sze https://piank.herokuapp.com/
+=======
+>>>>>>> refs/remotes/varrocs/master
 Hegedűs Adrián HegedusAdrian
 Márkus András 	andrasmarkus
 Orbán Levente polaroi8d
 Papp Máté  matepp
 Szpisják Viktor vektor112
 Szűts Roland	knif3
+<<<<<<< HEAD
 
+=======
+Gölöncsér József gojuaat-sze
+>>>>>>> refs/remotes/varrocs/master
