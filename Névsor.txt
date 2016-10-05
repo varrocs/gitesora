@@ -9,6 +9,7 @@ Burik Aurél	aurell1  https://piank1.herokuapp.com/
 Csongor Donát	Numichi	
 Déri Levente	derilevi	https://derilevi-nagyvallalatiprog.herokuapp.com/
 Hegedűs Adrián HegedusAdrian
+Kószó Gábor	kszgbr	https://szte-lmi-project.herokuapp.com/api/test
 Márkus András 	andrasmarkus
 Nagy Richárd Richardson35 https://nagyvallalati-narvact.herokuapp.com/
 Orbán Levente polaroi8d https://nagyvallalati-prog-app.herokuapp.com/
