@@ -10,7 +10,7 @@ Csongor Donát	Numichi
 Déri Levente	derilevi	https://derilevi-nagyvallalatiprog.herokuapp.com/
 Hegedűs Adrián HegedusAdrian
 Márkus András 	andrasmarkus
-Nagy Richárd Richardson35
+Nagy Richárd Richardson35 https://nagyvallalati-narvact.herokuapp.com/
 Orbán Levente polaroi8d https://nagyvallalati-prog-app.herokuapp.com/
 Papp Máté  matepp
 Szpisják Viktor vektor112
