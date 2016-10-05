@@ -6,8 +6,8 @@ Varró Csaba	varrocs
 
 Névsor:
 Burik Aurél	aurell1  https://piank1.herokuapp.com/
-Csongor Donát	Numichi	
-Déri Levente	derilevi	https://derilevi-nagyvallalatiprog.herokuapp.com/
+Csongor Donát	Numichi	https://szte-numichi-pinkapp.herokuapp.com/
+Déri Levente	derilevi https://derilevi-nagyvallalatiprog.herokuapp.com/
 Hegedűs Adrián HegedusAdrian
 Kószó Gábor	kszgbr	https://szte-lmi-project.herokuapp.com/api/test
 Márkus András 	andrasmarkus
