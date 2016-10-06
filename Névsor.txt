@@ -12,7 +12,7 @@ Hegedűs Adrián HegedusAdrian
 Kószó Gábor	kszgbr	https://szte-lmi-project.herokuapp.com/api/test
 Márkus András 	andrasmarkus
 Nagy Richárd Richardson35 https://nagyvallalati-narvact.herokuapp.com/
-Orbán Levente polaroi8d https://nagyvallalati-prog-app.herokuapp.com/
+Orbán Levente polaroi8d https://python-movie-app.herokuapp.com/
 Papp Máté  matepp
 Szpisják Viktor vektor112 https://nagyvallalati-flasking.herokuapp.com/
 Szűts Roland	knif3
