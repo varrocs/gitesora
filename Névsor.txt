@@ -15,6 +15,6 @@ Nagy Richárd Richardson35 https://nagyvallalati-narvact.herokuapp.com/
 Orbán Levente polaroi8d https://python-movie-app.herokuapp.com/
 Papp Máté  matepp
 Szpisják Viktor vektor112 https://nagyvallalati-flasking.herokuapp.com/
-Szűts Roland	knif3
+Szűts Roland	knif3	https://szroli-piank.herokuapp.com/
 Gölöncsér József gojuaat-sze
 Varga Attila vargaatt
